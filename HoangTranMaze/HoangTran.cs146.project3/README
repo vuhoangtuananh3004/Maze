@@ -1,0 +1,18 @@
+Name: Hoang Tuan Anh Vu, Thuy Tran
+Group: 10
+
+								Project 3 - Maze
+Brief description of submitted files for this project:
+- It would be easier to use IntelliJ IDE and Eclipse to import and run this program.
+- It is required to have JavaSE-16 or other Java application download in your computer or your code editor.
+- It is required to have JUnit 4 or 5 to run the JUnit test case.
+- The main application that will run and test all of the classes in this program is the ProgrammingTest.'
+- The ProgrammingTest class is using JUnit test case to test if all the solutions are correct or not and print the output.
+Note: to run the Programming class.
+	** before run the Programming class, make sure to import the project first
+	click on the ProgrammingTest.java file,
+	then click on the tab Run --> select Edit Configuration,
+	create a new JUnit run configuration and enter your path link of the project 
+	or select the project using browser on the project option.
+	** make sure that the JUnit test runner is 5 and the Java application is JavaSE-16.
+
